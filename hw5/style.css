@@ -21,7 +21,6 @@ color: blue;
 border: 2px dashed blue;
 flex-basis: 204px;
 height: 200px;
-flex-grow: 1
 }
 .box1{
     flex-grow: 1;
